@@ -1,0 +1,20 @@
+{
+  "name": "openai-agent-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "agent.js",
+  "scripts": {
+    "start": "tsx ./src/app.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "openai": "^5.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.12",
+    "tsx": "^4.19.2",
+    "typescript": "^5.8.2"
+  }
+}
